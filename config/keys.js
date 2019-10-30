@@ -1,4 +1,4 @@
 module.exports = {
-  mongoURI:"mongodb://test:123456@ds121960.mlab.com:21960/restful-api-prod",
-  secretOrKey:"secret"
-}
+  mongoURI: 'mongodb://test:test1234@ds223756.mlab.com:23756/mervn-api',
+  secretOrKey: 'secret'
+};
